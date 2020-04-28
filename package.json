@@ -1,0 +1,24 @@
+{
+  "name": "i-hate-computers",
+  "version": "1.0.0",
+  "description": "I hate computers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davestewart/i-hate-computers.git"
+  },
+  "keywords": [
+    "i",
+    "hate",
+    "computers"
+  ],
+  "author": "Dave Stewart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davestewart/i-hate-computers/issues"
+  },
+  "homepage": "https://github.com/davestewart/i-hate-computers#readme"
+}
